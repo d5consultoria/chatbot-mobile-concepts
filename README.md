@@ -1,2 +1,2 @@
 # mobile-screens
-Telas - Login, Dashboard, Configs, funcionalidades etc...
+This repository contains all the concepts and designs of the mobile chatbot.
